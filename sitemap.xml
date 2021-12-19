@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/12/19/RSS%E5%88%9D%E6%AD%A5%E6%8E%A2%E7%B4%A2/</loc>
+    
+    <lastmod>2021-12-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/12/11/%E5%B0%8F%E9%9B%A8/</loc>
     
     <lastmod>2021-12-11</lastmod>
@@ -123,7 +130,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-12-11</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -131,42 +138,49 @@
   
   <url>
     <loc>http://example.com/tags/%E4%BD%A0/</loc>
-    <lastmod>2021-12-11</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2021-12-11</lastmod>
+    <lastmod>2021-12-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2021-12-11</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2021-12-11</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E9%83%A8%E7%BD%B2%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2021-12-11</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E8%8C%B6%E7%82%B9/</loc>
-    <lastmod>2021-12-11</lastmod>
+    <lastmod>2021-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

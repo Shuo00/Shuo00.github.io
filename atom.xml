@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-12-11T06:38:16.548Z</updated>
+  <updated>2021-12-19T12:20:36.527Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>RSS初步探索</title>
+    <link href="http://example.com/2021/12/19/RSS%E5%88%9D%E6%AD%A5%E6%8E%A2%E7%B4%A2/"/>
+    <id>http://example.com/2021/12/19/RSS%E5%88%9D%E6%AD%A5%E6%8E%A2%E7%B4%A2/</id>
+    <published>2021-12-19T11:45:12.000Z</published>
+    <updated>2021-12-19T12:20:36.527Z</updated>
+    
+    <content type="html"><![CDATA[<p>快要复习了，先写一个提纲，来不及了来不及了</p><p>还需要记录的东西有</p><blockquote><p>Markdown<br>Obsidian<br>艺术哲学<br>Onenote</p></blockquote><p>还需要完善的博客功能有</p><blockquote><p>图床<br>评论系统<br>部署华为云<br>标签<br>密码</p></blockquote><h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>我与RSS</p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><h2 id="平台"><a href="#平台" class="headerlink" title="平台"></a>平台</h2><h2 id="探索过程"><a href="#探索过程" class="headerlink" title="探索过程"></a>探索过程</h2><h1 id="本周总结"><a href="#本周总结" class="headerlink" title="本周总结"></a>本周总结</h1><h2 id="任务"><a href="#任务" class="headerlink" title="任务"></a>任务</h2><blockquote><p>马步天天都做了</p></blockquote><blockquote><p>有一天晚上没刷牙</p></blockquote><blockquote><p>仰卧起坐增加到了70个</p></blockquote><blockquote><p>俯卧撑增加到了30个</p></blockquote><blockquote><p>为啥蹲马步检查的时间越来越短了？</p></blockquote><blockquote><p>读英语报纸，一天没读</p></blockquote><blockquote><p>图书馆借的书一天没读</p></blockquote><blockquote><p>准备高中物理, 就准备了一天</p></blockquote><blockquote><p>有那么一天刷了视频</p></blockquote><blockquote><p>上床没有拿手机了</p></blockquote><h2 id="想做的事情"><a href="#想做的事情" class="headerlink" title="想做的事情"></a>想做的事情</h2><ol><li>填坑</li><li>想早点回家</li><li>一起坐次火车就这么难吗？</li><li>ppt赚钱</li><li>当家教赚钱</li></ol><h2 id="做了的事情"><a href="#做了的事情" class="headerlink" title="做了的事情"></a>做了的事情</h2><ol><li>OneNote记录了每天</li><li>复习了几天六级</li><li>竟然对这个星期没啥记忆</li></ol><h2 id="下周每日计划"><a href="#下周每日计划" class="headerlink" title="下周每日计划"></a>下周每日计划</h2><p>需要继续完成的</p><blockquote><p>我只想复习</p></blockquote><p>新加入的</p><blockquote><p>赶紧复习</p><p>早上至少七点半起床吧</p></blockquote><h1 id="疑惑"><a href="#疑惑" class="headerlink" title="疑惑"></a>疑惑</h1><hr><p>在战略上要蔑视敌人，在战术上要重视敌人</p><iframe src="//player.bilibili.com/player.html?aid=497694211&bvid=BV1XK411L7fg&cid=174564537&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;快要复习了，先写一个提纲，来不及了来不及了&lt;/p&gt;
+&lt;p&gt;还需要记录的东西有&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Markdown&lt;br&gt;Obsidian&lt;br&gt;艺术哲学&lt;br&gt;Onenote&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;还需要完善的博客功能有&lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="技术" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>小雨</title>
